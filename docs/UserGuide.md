@@ -9,7 +9,7 @@ title: User Guide
 
 --------------------------------------------------------------------------------------------------------------------
 
-<div class="reset-page-break-defaults" markdown="1">
+<div class="reset-page-break-defaults">
 
 ## Introduction
 
