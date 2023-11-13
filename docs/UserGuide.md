@@ -1,4 +1,3 @@
-<div class="reset-page-break-defaults" markdown="1">
 
 
 ---
@@ -9,6 +8,7 @@ title: User Guide
 
 
 --------------------------------------------------------------------------------------------------------------------
+<div class="reset-page-break-defaults" markdown="1">
 ## Introduction
 
   Welcome to the **Jobby** User Guide!
@@ -35,10 +35,10 @@ title: User Guide
   _The different symbols and formats used are explained in [this section](#navigating-the-guide)._
 
   _The summary of the commands can be found [here](#command-summary)._
+</div>
 
 
 --------------------------------------------------------------------------------------------------------------------
-</div>
 
 ## Table of contents
 * Table of Contents
