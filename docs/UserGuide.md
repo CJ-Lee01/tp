@@ -8,7 +8,9 @@ title: User Guide
 
 
 --------------------------------------------------------------------------------------------------------------------
+
 <div class="reset-page-break-defaults" markdown="1">
+
 ## Introduction
 
   Welcome to the **Jobby** User Guide!
